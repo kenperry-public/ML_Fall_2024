@@ -7,8 +7,6 @@ import os
 import h5py
 import pickle
 
-from nose.tools import assert_equal
-
 
 import json
 
